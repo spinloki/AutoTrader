@@ -1,0 +1,6 @@
+command,class,tags,syntax,help
+AT_Status,spinloki.AutoTrader.data.console.AT_Status,"campaign,safe",AT_Status,Print AutoTrader settings and configured rules.
+AT_Weapon,spinloki.AutoTrader.data.console.AT_Weapon,"campaign,cheat",AT_Weapon <weaponId> <sellAbove> <buyBelow>,"Set or clear an auto-trade rule for a weapon. Use -1 for either threshold to leave it unset; -1 -1 removes the rule."
+AT_Fighter,spinloki.AutoTrader.data.console.AT_Fighter,"campaign,cheat",AT_Fighter <wingId> <sellAbove> <buyBelow>,"Set or clear an auto-trade rule for a fighter LPC."
+AT_Hullmods,spinloki.AutoTrader.data.console.AT_Hullmods,"campaign,cheat",AT_Hullmods <buyUnknown> <learnOnBuy>,"Toggle hullmod auto-buy and auto-learn. Args are on/off."
+AT_Run,spinloki.AutoTrader.data.console.AT_Run,"campaign,cheat",AT_Run,Force a trade pass against the currently docked market.

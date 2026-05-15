@@ -1,0 +1,11 @@
+{
+  "masterVersionFile": "https://raw.githubusercontent.com/spinloki/AutoTrader/refs/heads/main/spinloki_autotrader.version",
+  "modName": "AutoTrader",
+  "modVersion": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  },
+  "modThreadId": 35407,
+  "directDownloadURL": "https://github.com/spinloki/AutoTrader/releases/download/v0.0.0/AutoTrader.zip"
+}

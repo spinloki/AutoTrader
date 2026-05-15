@@ -1,0 +1,12 @@
+{
+  "id": "spinloki_autotrader",
+  "name": "AutoTrader",
+  "author": "spinloki",
+  "utility": false,
+  "version": { "major": '0', "minor": '0', "patch": '0' },
+  "description": "Automated trading assistance.",
+  "gameVersion": "0.98a-RC7",
+  "jars": [ "jars/AutoTrader.jar" ],
+  "modPlugin": "spinloki.AutoTrader.AutoTrader",
+  "dependencies": []
+}
