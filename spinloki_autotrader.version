@@ -4,8 +4,8 @@
   "modVersion": {
     "major": 0,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "modThreadId": 35407,
-  "directDownloadURL": "https://github.com/spinloki/AutoTrader/releases/download/v0.0.0/AutoTrader.zip"
+  "directDownloadURL": "https://github.com/spinloki/AutoTrader/releases/download/v0.0.1/AutoTrader.zip"
 }

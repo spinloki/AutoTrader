@@ -3,7 +3,7 @@
   "name": "AutoTrader",
   "author": "spinloki",
   "utility": false,
-  "version": { "major": '0', "minor": '0', "patch": '0' },
+  "version": { "major": '0', "minor": '0', "patch": '1' },
   "description": "Automated trading assistance.",
   "gameVersion": "0.98a-RC7",
   "jars": [ "jars/AutoTrader.jar" ],
